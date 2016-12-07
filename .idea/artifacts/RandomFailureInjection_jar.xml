@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RandomFailureInjection:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RandomFailureInjection_jar</output-path>
+    <root id="archive" name="RandomFailureInjection.jar">
+      <element id="module-output" name="RandomFailureInjection" />
+    </root>
+  </artifact>
+</component>
